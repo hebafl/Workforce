@@ -1,4 +1,4 @@
-animals = ["monkey", "lion", "elephant", "rhino", "jackal"]
+animals = ["monkey", "lion", "elephant", "rhino", "jackal", "bird"]
 
 for animal in animals:
     if animal == "lion":
